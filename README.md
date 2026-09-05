@@ -12,7 +12,7 @@
 ### Goals 🚀
 - learn Git & Github more in depth
 - Build more technical projects
-- Gain cybersecurity experience
-- Land an internship
+- Gain Cybersecurity experience
+- Land an Internship
 
 Thanks for checking out my profile! 😄

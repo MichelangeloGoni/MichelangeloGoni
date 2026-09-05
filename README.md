@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Michelangelo 👋
 
-<!--
-**MichelangeloGoni/MichelangeloGoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍒 Cybersecurity Student at Temple University
 
-Here are some ideas to get you started:
+💻 Interested in technology, cybersecurity, and building hands-on experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- SQL
+- Git & Github
+
+### Goals 🚀
+- learn Git & Github more in depth
+- Build more technical projects
+- Gain cybersecurity experience
+- Land an internship
+
+Thanks for checking out my profile! 😄
